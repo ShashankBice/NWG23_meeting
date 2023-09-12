@@ -7,16 +7,13 @@ description:
 # - user_groups correspond to hackweek roles defined here: https://uwhackweek.github.io/hackweeks-as-a-service/services/index.html
 # - For 'avatar' an easy option is to use the URL for your GitHub user image: https://api.github.com/users/YOUR_GITHUB_USERNAME
 people:
-  - title: Jessica Scheick
-    avatar: https://avatars.githubusercontent.com/u/11756442?v=4
-    role: Research Assistant Professor
+  - title: Michelle Koutnik
+    avatar: https://uw-env-media.b-cdn.net/wp-content/uploads/2015/02/Michelle-Koutnik-528x528.jpg
+    role: Research Associate Professor
     organizations:
-      - name: University of New Hampshire
-      - name: eScience
-    bio: Jessica is a glaciologist, remote sensing specialist, open science advocate and educator,
-      collaborative developer, open-source software contributor and maintainer, and community manager.
-      She enjoys weaving her many roles together to work with others to build software that makes it easier
-      for everyone to access and manipulate data, and she's especially fond of detecting icebergs.
+      - name: Earth & Space Sciences, University of Washington
+       
+    bio: Michelle Koutnik is a glaciologist. 
     expertise:
       - open science
       - collaborative development

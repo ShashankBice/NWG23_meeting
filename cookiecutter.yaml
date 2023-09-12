@@ -22,8 +22,8 @@ about:
   description: Describe what the North west glaciologist meeting is
   learn_more: https://escience.washington.edu/using-data-science/hackweeks
   links:
-    - url: '#'
-      title: A sample link
+    - url: 'http://tbartholomaus.org/nwg2022/'
+      title: 2022 Event
       new_window: True
 applicant_info: The 2023 NorthWest Glaciologists meeting will be held at the University of Washington in Seattle. Event registration will open soon.
 team:
@@ -31,11 +31,11 @@ team:
 schedule:
   !include schedule.yaml
 sponsors:
-  description: ''
+  description: 'The 2023 event is hosted by the Department of Earth & Space Sciences, University of Washington'
   organizations:
-  - name: eScience Institute
+  - name: Department of Earth & Space Sciences, UW
     website: ''
-    logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
+    logo_url: https://pbs.twimg.com/profile_images/1534585466472701952/SH1Z0VfI_400x400.jpg
 footer:
   social:
   - icon: github

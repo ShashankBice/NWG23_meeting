@@ -60,6 +60,45 @@ sponsors:
   - name: Department of Earth & Space Sciences, UW
     website: ''
     logo_url: https://pbs.twimg.com/profile_images/1534585466472701952/SH1Z0VfI_400x400.jpg
+
+venue:
+  description: 
+    The 2023 meeting will be held on the University of Washington campus.
+    </br></br>
+    All parking on campus for vehicles, buses, or motorcycles must be arranged in advance with UW Transportation Services OR at any one of the gatehouse upon entering campus. Current parking rates and all parking related information can be found on the UW Transportation website. There is no street parking available on the Seattle campus. Free parking begins at noon on Saturdays and ends at 7am on Mondays except where noted.
+    See here for information on parking and getting to campus.
+    </br></br>
+    The Link Light Rail provides transportation from the airport and from the Amtrak station (King Street), as well as stops within the city. There are two stops that are particularly convenient for access to 1) the University District (where some hotels are located) and also access to central campus – ‘U District Station’ and 2) ‘University of Washington Station’ that is near Husky Stadium and also close to the Waterfront Activities Center. 
+    The UW campus is very bicycle friendly and there are bike racks for cyclists to secure their bikes.
+     </br></br>
+    Friday meeting location from 8':'15 am to 5 pm':' Husky Union Building (HUB) room 332
+    The HUB is located on central campus. Padelford Parking Garage is the nearest parking lot to the HUB.
+    When using Metro Transit buses, please use “UNIVERSITY OF WASHINGTON HUB” as the destination. There are a number of bus routes that stop at the Husky Union Building. Review Metro’s Schedules & Maps webpage and select “University District” for details.
+    </br></br>
+    Friday evening event from 5 pm to 10-11 pm':' Waterfront Activities Center (WAC) Great Room'
+    </br></br>
+    The Waterfront Activities Center is 0.7miles (~15 minute walk) from the Husky Union Building. 
+    </br></br>
+    At the WAC, parking is available for a fee in lots E-19 and E-21, adjacent to the WAC, at $4.00/hour or $18.00 for all day. The availability of parking cannot be guaranteed. Citations may be issued to vehicles that fail to pay at the pay station. If you plan on parking at our facility while attending an event at the WAC, please pay at the pay station located directly in front of the WAC or contact the Parking Services Special Events Office at (206) 616-8710 for information.
+    </br></br>
+    The WAC is near the University of Washington metro station.
+    </br></br>
+    </br></br>
+    Saturday meeting location from 8':'15 am to 5pm':' Johnson Hall (JHN) room 075
+    </br></br>
+    The closest parking is the Central Plaza Garage. The gatehouse when entering campus is not always attended but if there is an attendant you can pay for parking at the gatehouse, or pay through an app using the QR code in the parking garage. In addition to other garage options, there is a self-serve lot, E1, that should have lower daily parking rates.
+
+  organizations:
+  - name: Husky Union Building, UW
+    website: 'https://www.washington.edu/maps/#!/hub'
+    logo_url: http://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/4/2011/04/14134822/hub_winter_2016_24412835209_o-240x180.jpg
+  - name: Water Fronts Activities Center, UW
+    website: 'https://www.washington.edu/maps/#!/wac'
+    logo_url: 'http://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/4/2012/08/04231130/Waterfront-Activities-Center-WAC-240x180.jpg'
+  - name: Jhonson Hall, UW
+    website: 'https://www.washington.edu/maps/#!/jhn'
+    logo_url: 'http://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/4/2012/08/04231532/jhn-240x160.jpg'
+
 footer:
   social:
   - icon: github

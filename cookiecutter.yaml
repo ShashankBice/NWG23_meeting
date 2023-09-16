@@ -1,8 +1,8 @@
 repo_directory: html
 name: NorthWest Glaciologists Meeting
 apply:
-  url: '#'
-  title: Registration starting soon
+  url: 'https://docs.google.com/forms/d/e/1FAIpQLSdVdKuEd05uEbdbvyAWXoo52udLZ6YdVJEKHfYkw8cPh36lrg/viewform'
+  title: Registration started
 hackweek_mission: https://uwhackweek.github.io/hackweeks-as-a-service/mission.html
 banner:
   description: The annual meeting bringing together glaciologists from the North West.
@@ -19,13 +19,20 @@ banner:
 # The opening session of the event with UTC offset
 event_countdown: "2023-10-20T08:30:00-07:00"
 about:
-  description: Describe what the North west glaciologist meeting is
-  learn_more: https://escience.washington.edu/using-data-science/hackweeks
+  description: 'The meeting of Northwest Glaciologists started in 1972 hosted at the University of British Columbia, and was instigated by Mark Meier, Garry Clarke, and Charlie Raymond. Over the years the meeting has been hosted by different institutions. *This is an informal event, but we do ask for everyone to fill out the registration form (red button on top right corner of the webpage) so that we know how many people are coming and can plan the meeting agenda. Please email nwg2023seattle@gmail.com if you have any questions.
+Oral presentation time slots will be 15 minutes, so please prepare a talk no longer than 12 minutes to allow for 3 minutes of questions and changeover to the next speaker.
+There will also be a poster session and posters that fit within size guidelines of other meetings can be accommodated on the walls of our meeting room or in the hallway. 
+If you indicated interest in a presentation and specified that it would be a poster or it would be an oral, please proceed with preparing your presentation. If you indicated either poster or oral we will get back to you soon to confirm.
+If you would like to present and need to fill out the registration form, do that now!' 
+
+
+
+  learn_more: https://docs.google.com/document/d/1iCarzEDuznFVXd1X3woimkVh9v06zuZH/edit
   links:
     - url: 'http://tbartholomaus.org/nwg2022/'
-      title: 2022 Event
+      title: 2022
       new_window: True
-applicant_info: The 2023 NorthWest Glaciologists meeting will be held at the University of Washington in Seattle. Event registration will open soon.
+applicant_info: The 2023 NorthWest Glaciologists meeting will be held at the University of Washington in Seattle. Event registration has started, please fill out the details using the registration link on the top right corner of the page.
 team:
   !include team.yaml
 schedule:

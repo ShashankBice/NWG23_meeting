@@ -1,11 +1,11 @@
 repo_directory: html
-name: NorthWest Glaciologists Meeting
+name: Northwest Glaciologists Meeting
 apply:
   url: 'https://docs.google.com/forms/d/e/1FAIpQLSdVdKuEd05uEbdbvyAWXoo52udLZ6YdVJEKHfYkw8cPh36lrg/viewform'
   title: Registration started
 hackweek_mission: https://uwhackweek.github.io/hackweeks-as-a-service/mission.html
 banner:
-  description: The annual meeting bringing together glaciologists from the North West.
+  description: The annual meeting bringing together glaciologists from the Northwest.
   start_date: 20 October
   end_date: 21 October
   year: 2023
@@ -32,7 +32,7 @@ If you would like to present and need to fill out the registration form, do that
     - url: 'http://tbartholomaus.org/nwg2022/'
       title: 2022
       new_window: True
-applicant_info: The 2023 NorthWest Glaciologists meeting will be held at the University of Washington in Seattle. Event registration has started, please fill out the details using the registration link on the top right corner of the page.
+applicant_info: The 2023 Northwest Glaciologists meeting will be held at the University of Washington in Seattle. Event registration has started, please fill out the details using the registration link on the top right corner of the page.
 team:
   !include team.yaml
 schedule:

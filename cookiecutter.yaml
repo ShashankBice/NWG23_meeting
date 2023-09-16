@@ -19,11 +19,20 @@ banner:
 # The opening session of the event with UTC offset
 event_countdown: "2023-10-20T08:30:00-07:00"
 about:
-  description: 'The meeting of Northwest Glaciologists started in 1972 hosted at the University of British Columbia, and was instigated by Mark Meier, Garry Clarke, and Charlie Raymond. Over the years the meeting has been hosted by different institutions. *This is an informal event, but we do ask for everyone to fill out the registration form (red button on top right corner of the webpage) so that we know how many people are coming and can plan the meeting agenda. Please email nwg2023seattle@gmail.com if you have any questions.
-Oral presentation time slots will be 15 minutes, so please prepare a talk no longer than 12 minutes to allow for 3 minutes of questions and changeover to the next speaker.
-There will also be a poster session and posters that fit within size guidelines of other meetings can be accommodated on the walls of our meeting room or in the hallway. 
-If you indicated interest in a presentation and specified that it would be a poster or it would be an oral, please proceed with preparing your presentation. If you indicated either poster or oral we will get back to you soon to confirm.
-If you would like to present and need to fill out the registration form, do that now!' 
+  description: 
+    The meeting of Northwest Glaciologists started in 1972, hosted at the University of British Columbia, and was instigated by Mark Meier, Garry Clarke, and Charlie Raymond. Over the years the meeting has been hosted by different institutions. 
+    </br></br>
+    This is an informal event, but we do ask for everyone to fill out the registration form (red button on top right corner of the webpage) so that we know how many people are coming and can plan the meeting agenda. 
+    </br></br>
+    Please email <a href="nwg2023seattle@gmail.com">us</a> if you have any questions.
+    </br></br>
+    Oral presentation time slots will be 15 minutes, so please prepare a talk no longer than 12 minutes to allow for 3 minutes of questions and changeover to the next speaker.
+    </br></br>
+    There will also be a poster session and posters that fit within size guidelines of other meetings can be accommodated on the walls of our meeting room or in the hallway. 
+    </br></br>
+    If you indicated interest in a presentation and specified that it would be a poster or it would be an oral, please proceed with preparing your presentation. If you indicated either poster or oral we will get back to you soon to confirm.
+    </br></br>
+    If you would like to present and need to fill out the registration form, do that now!  
 
 
 
@@ -32,7 +41,15 @@ If you would like to present and need to fill out the registration form, do that
     - url: 'http://tbartholomaus.org/nwg2022/'
       title: 2022
       new_window: True
-applicant_info: The 2023 Northwest Glaciologists meeting will be held at the University of Washington in Seattle. Event registration has started, please fill out the details using the registration link on the top right corner of the page.
+applicant_info: 
+  The 2023 Northwest Glaciologists meeting will be held at the University of Washington in Seattle. Event registration has started, please fill out the details using the registration link on the top right corner of the page. 
+  </br></br>
+  The meeting agenda will include talks, posters, and breaks between 9 am to 5 pm on Friday October 20 and on Saturday October 21. On both days there will be light breakfast, coffee, and tea at the meeting location starting at around 8:15 am and the room will open around 8 am. Afternoon refreshments, coffee, and tea will also be served and lunch will be on your own at eateries on/near campus. On Friday evening there will be a pizza dinner and social event starting around 6pm at the Waterfront Activities Center that is near to the Friday meeting location on the UW campus (see above for directions). 
+  </br></br>
+  The meeting program will be available on this website when it is ready, which should be approximately 2 weeks before the meeting. 
+  </br></br>
+  Please bring your own name tag, coffee mug (and pint glass, perhaps) to make this an eco-friendly meeting (although disposable options will be available, if needed). There may be a prize offered for the most creative name tag.
+
 team:
   !include team.yaml
 schedule:

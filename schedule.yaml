@@ -5,7 +5,7 @@ tabs:
   contents:
   - title: Doors open, breakfast served
     description: Welcome and getting to know each other.
-    time: 8:00 - 9:00
+    time: 8:15 - 9:00
     #leads:
    # - Michelle Koutnik
 
@@ -37,18 +37,18 @@ tabs:
           - header: "9:30 to 9:45 T.J."
             description: "Event Logistics"
     time: 10:30 - 11:00
-    leads:
-    - Naomi Alterman
-  - title: ICESat-2 Mission Overview and Data
-    description: Summary of ICESat-2 datasets, algorithms and science applications.
+    #leads:
+    #- Naomi Alterman
+  - title: Session 2
+    description: Some more talks
     time: 11:00 - 12:00
-    leads:
-    - Ben Smith
+    #leads:
+    #- Ben Smith
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
-  - title: OPEN PROJECT WORK
-    description: null
+  - title: Session 3
+    description: More talks
     time: 13:00 - 17:00
   - title: Dinner
     description: Pizza dinner at Waterfront Activities Center (WAC).
@@ -56,28 +56,27 @@ tabs:
 - title: Day 2
   date: Saturday 21 October
   contents:
-  - title: Cloud data access and data formats
-    description: Approaches for accessing and subsetting ICESat-2 data in a cloud
-      environment.
-    time: 8:30 - 10:00
-    leads:
-    - Amy Steiker
+  - title: Session 4
+    description: Talks
+    time: 8:15 - 10:00
+    #leads:
+    #- Amy Steiker
   - title: BREAK
     description: null
     time: 10:00 - 10:30
-  - title: Open source development / Object Oriented Programming
-    description: Best practices for collaborative coding and object oriented programming.
+  - title: Session 4
+    description: talks
     time: 10:30 - 11:30
-    leads:
-    - Romina Piunno
-  - title: Group STAND-UP
-    description: Demonstration of a daily stand-up as part of your project collaboration.
+    #leads:
+    #- Romina Piunno
+  - title: Session 5
+    description: Talks
     time: 11:30 - 12:00
-    leads:
-    - Anthony Arendt
+    #leads:
+    #- Anthony Arendt
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
-  - title: OPEN PROJECT WORK
+  - title: Session 6
     description: null
     time: 13:00 - 17:00

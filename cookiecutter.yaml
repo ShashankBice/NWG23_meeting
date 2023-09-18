@@ -24,7 +24,7 @@ about:
     </br></br>
     This is an informal event, but we do ask for everyone to fill out the registration form (red button on top right corner of the webpage) so that we know how many people are coming and can plan the meeting agenda. 
     </br></br>
-    Please email <a href="nwg2023seattle@gmail.com">us</a> if you have any questions.
+    Please email <a href="mailto:nwg2023seattle@gmail.com">us</a> if you have any questions.
     </br></br>
     Oral presentation time slots will be 15 minutes, so please prepare a talk no longer than 12 minutes to allow for 3 minutes of questions and changeover to the next speaker.
     </br></br>
@@ -48,18 +48,27 @@ applicant_info:
   </br></br>
   The meeting program will be available on this website when it is ready, which should be approximately 2 weeks before the meeting. 
   </br></br>
-  Please bring your own name tag, coffee mug (and pint glass, perhaps) to make this an eco-friendly meeting (although disposable options will be available, if needed). There may be a prize offered for the most creative name tag.
+  Please bring your own name tag, coffee mug (and pint glass, perhaps) to make this an eco<span>&#8212;</span>friendly meeting (although disposable options will be available, if needed). There may be a prize offered for the most creative name tag.
 
 team:
   !include team.yaml
 schedule:
   !include schedule.yaml
 sponsors:
-  description: 'The 2023 event is hosted by the Department of Earth & Space Sciences, University of Washington'
+  description: 'The 2023 event is hosted by the University of Washington<span>&#39;</span>s Glaciology group, which comprises of researchers from Department of Earth & Space Sciences, Department of Atmospheric Sciences, APL Polar Science Center, and Department of Civil & Environmental Engineering.'
   organizations:
   - name: Department of Earth & Space Sciences, UW
-    website: ''
+    website: 'https://ess.uw.edu'
     logo_url: https://pbs.twimg.com/profile_images/1534585466472701952/SH1Z0VfI_400x400.jpg
+  - name: Department of Earth & Space Sciences, UW
+    website: 'https://atmos.uw.edu'
+    logo_url: https://atmos.washington.edu/gcc/2016/gcc2016web/uploads/7/1/6/2/71624089/6501331.jpg?291
+  - name: APL Polar Science Center, UW
+    website: 'https://psc.apl.uw.edu'
+    logo_url: https://www.washington.edu/research/wp-content/uploads/2017/01/Polar-Science-Center.jpg
+  - name: Department of Civil & Environmental Engineering, UW
+    website: 'https://www.ce.washington.edu/news/article/2023-05-15/course-action'
+    logo_url: https://pbs.twimg.com/profile_images/1504558033233330186/M81WEnL__400x400.jpg
 
 venue:
   description: 
@@ -87,13 +96,26 @@ venue:
   organizations:
   - name: Husky Union Building, UW
     website: 'https://www.washington.edu/maps/#!/hub'
-    logo_url: http://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/4/2011/04/14134822/hub_winter_2016_24412835209_o-240x180.jpg
+    logo_url: 'https://github.com/ShashankBice/NWG23_meeting/blob/main/static_images/hub_thumbnail.png'
   - name: Water Fronts Activities Center, UW
     website: 'https://www.washington.edu/maps/#!/wac'
-    logo_url: 'http://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/4/2012/08/04231130/Waterfront-Activities-Center-WAC-240x180.jpg'
+    logo_url: 'https://github.com/ShashankBice/NWG23_meeting/blob/main/static_images/wac_thumbnail.png'
   - name: Jhonson Hall, UW
     website: 'https://www.washington.edu/maps/#!/jhn'
-    logo_url: 'http://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/4/2012/08/04231532/jhn-240x160.jpg'
+    logo_url: 'https://github.com/ShashankBice/NWG23_meeting/blob/main/static_images/jhn_thumbnail.png'
+
+accomodation:
+  description: 
+    Within easy walking distance of the University of Washington campus there are multiple hotels, including the <a href="https://www.staypineapple.com/university-inn-seattle-wa?utm_source=google&utm_medium=organic&utm_campaign=GMB&utm_term=ui">University Inn <span>&#8212;</span>Stay Pineapple</a>, <a href="https://www.staypineapple.com/watertown-hotel-seattle-wa?utm_source=google&utm_medium=organic&utm_campaign=GMB&utm_term=wt">Watertown <span>&#8212;</span> Stay Pineapple</a>, and the <a href="https://www.graduatehotels.com/seattle/">Graduate Hotel</a>. Since the University of Washington is accessible by numerous bus lines and also the light rail, it would also be possible to find accommodation farther from campus. Let us know if you have any questions. 
+
+
+inclusive:
+  description: 
+    As a meeting policy we will follow the <a href="https://www.ehs.washington.edu/covid-19-prevention-and-response/face-covering-policy">masking guidance from the University of Washington regarding COVID-19 illness and exposure</a>. We will monitor the guidance as the meeting approaches and communicate if there are any changes. 
+    </br></br>
+    Northwest Glaciologists is a warm, supportive, and inclusive meeting, with a strong emphasis on building and maintaining community. We welcome individuals from any background and strive to provide a place for scientific exchange that is safe, non-discriminating and without harassment. We expect professional courtesy in communications between NWG meeting participants.
+    </br></br>
+    Graduate students and other early career researchers are especially invited to present their research. Many attendees may choose to give 12 minute oral presentations (not including time for questions), including those at the beginning of their studies, although poster presentations will also be a part of this meeting.
 
 footer:
   social:

@@ -11,9 +11,9 @@ tabs:
 
   - title: "Introductions"
     description: Introductory session bringing particpants up to speed
-    resources:
-    - title: "900 to 915 Michelle Koutnik Welcome to NWG 2023"
-    - title: "915 to 930 Ed History of NWG meetings"
+    #resources:
+    #- title: "900 to 915 Michelle Koutnik Welcome to NWG 2023"
+    #- title: "915 to 930 Ed History of NWG meetings"
     time: 9:00 - 9:45
     #leads:
     #- Tasha Snow

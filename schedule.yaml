@@ -6,6 +6,9 @@ tabs:
   - title: Doors open, breakfast served
     description: Welcome and getting to know each other.
     time: 8:15 - 9:00
+    resources:
+    - title: Talk 1
+    - title: Talk 2
     #leads:
    # - Michelle Koutnik
 

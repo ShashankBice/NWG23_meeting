@@ -3,54 +3,68 @@ tabs:
 - title: Day 1
   date: Friday 20 October
   contents:
-  - title: Doors open, breakfast served
-    description: Welcome and getting to know each other.
-    time: 8:15 - 9:00
+  - title: Oral Session 1<span>&#58;</span> Impacts and Outreach
+    description: " " 
+    time: 9:00 - 10:30
     resources:
-    - title: Talk 1
-    - title: Talk 2
-    #leads:
-   # - Michelle Koutnik
+    - title: 9<span>&#58;</span>00 to 9<span>&#58;</span>15 <span>&#58;</span> "Welcome to NWG" by <em>Michelle Koutnik</em>
+    - title: 9<span>&#58;</span>15 to 9<span>&#58;</span>30 <span>&#58;</span> "JIRP Updates and Future Goals" by <em>Ali Dibble</em>
+    - title: 9<span>&#58;</span>30 to 9<span>&#58;</span>45 <span>&#58;</span> Significant mass loss from Eliot Glacier, Oregon, has downstream implications for fruit farming by <em>Kiya Riverman</em>
+    - title: 9<span>&#58;</span>45 to 10<span>&#58;</span>00 <span>&#58;</span> "Citizen Science<span>&#58;</span> Near-surface atmospheric and surface soil temperatures from the southern aspect of Mt. Baker, WA (July 2018 - July 2023) deployed by a high school outdoor program and analyzed by a high school data science program" by <em>Michael Town</em>
+    - title: 10<span>&#58;</span>00 to 10<span>&#58;</span>15 <span>&#58;</span> "The role of Tweedsmuir Glacier & Turnback Canyon in the history of sockeye salmon in southwest Yukon" by <em>Dan Shugar</em>
+    - title: 10<span>&#58;</span>15 to 10<span>&#58;</span>30 <span>&#58;</span> "Toward a Multi-Decadal Water Budget for a Highly-Glacierized Catchment in Yukon, Canada." by <em>Katie Robinson</em>
 
-  - title: "Introductions"
-    description: Introductory session bringing particpants up to speed
-    #resources:
-    #- title: "900 to 915 Michelle Koutnik Welcome to NWG 2023"
-    #- title: "915 to 930 Ed History of NWG meetings"
-    time: 9:00 - 9:45
-    #leads:
-    #- Tasha Snow
+    
   - title: BREAK
     description: null
-    time: 9:45 - 10:00
-  - title: "Session 1: Glacier mass balance"
-    description: Oral session 1
-    expanded_description: 
-      header: Introductory session bringing particpants up to speed
-      list:
-          - header: "9:00 to 9:15 Michelle Koutnik"
-            description: "Welcome to NWG 2023"
-          - header: "9:15 to 9:30 Ed"
-            description: "History of NWG meetings"
-          - header: "9:30 to 9:45 T.J."
-            description: "Event Logistics"
-    time: 10:30 - 11:00
-    #leads:
-    #- Naomi Alterman
-  - title: Session 2
-    description: Some more talks
-    time: 11:00 - 12:00
-    #leads:
-    #- Ben Smith
+    time: 10:30 - 10:45
+  - title: Oral Session 2<span>&#58;</span> Arctic Glaciers
+    description: " "
+    time: 10:45 - 11:45
+    resources:
+    - title: 10<span>&#58;</span>45 to 11<span>&#58;</span>00 <span>&#58;</span> "Reconstructing a 1980's DEM of the Greenland ice sheet from coastal observations and modeled geometries" by <em>Annegret Pohle</em>
+    - title: 11<span>&#58;</span>00 to 11<span>&#58;</span>15 <span>&#58;</span> "Fog forcing of surface energy balance from measurements on Arctic glaciers" by <em>Hester Jiskoot</em>
+    - title: 11<span>&#58;</span>15 to 11<span>&#58;</span>15 <span>&#58;</span> "Dynamic response to winter-time supraglacial lake drainage cascade observed in western Greenland" by <em>Nathan Maier</em>
+    - title: 11<span>&#58;</span>30 to 11<span>&#58;</span>45 <span>&#58;</span> "Radar investigations of coastal ice exposures in the Canadian Arctic as analogs to ice-exposing scarps in the mid-latitudes of Mars" by <em>An Li</em>
   - title: LUNCH
     description: null
-    time: 12:00 - 13:00
-  - title: Session 3
-    description: More talks
-    time: 13:00 - 17:00
+    time: 11:45 - 13:00
+    
+
+  
+  - title: Oral Session 3<span>&#58;</span> Pacific Northwest Glaciers
+    description: " "
+    time: 13:00 - 14:15
+    resources: 
+    - title: 13<span>&#58;</span>00 to 13<span>&#58;</span>15 <span>&#58;</span> "Potential Controls on Glacier Mass Balance in Western North American Glaciers<span>&#58;</span> Analyzing Dense Time Series of Multi-Source Satellite Snow Cover Data" by <em>Rainey Aberle</em>
+    - title: 13<span>&#58;</span>15 to 13<span>&#58;</span>30 <span>&#58;</span> "Re-inventory of Mount Rainier Glacier Volumes" by <em>Taylor Kenyon</em>
+    - title: 13<span>&#58;</span>30 to 13<span>&#58;</span>45 <span>&#58;</span> "A cosmogenic 10Be moraine chronology of arid, alpine Late Pleistocene glaciation in the Pioneer Mountains of Montana, USA" by <em>Spruce Schoenemann</em>
+    - title: 13<span>&#58;</span>45 to 14<span>&#58;</span>00 <span>&#58;</span> "Signal penetration of the Shuttle Radar Topography Mission in mid- and low-latitude glaciers" by <em>Romain Hugonnet</em>
+    - title: 14<span>&#58;</span>00 to 14<span>&#58;</span>15 <span>&#58;</span> "Presentation by Martin" by <em>Martin Truffer </em>
+  
+  - title: BREAK
+    description: null
+    time: 14:15 - 14:45
+
+  - title: Oral Session 3<span>&#58;</span> Ice Dynamics
+    description: " "
+    time: 14:45 - 17:15
+    resources: 
+    - title: 14<span>&#58;</span>45 to 15<span>&#58;</span>00 <span>&#58;</span> "Viscosity of compacting firn<span>&#58;</span> insights into grain size and temperature dependence" by <em>Kris Houdyshell </em>
+    - title: 15<span>&#58;</span>00 to 15<span>&#58;</span>15 <span>&#58;</span> "The effect of ice microstructure on borehole deformation" by <em>Emilie Sinkler </em>
+    - title: 15<span>&#58;</span>15 to 15<span>&#58;</span>30 <span>&#58;</span> "How does bed topography affect outlet glacier response to runoff?" by <em>Amy Jenson </em>
+    - title: 15<span>&#58;</span>35 to 15<span>&#58;</span>45 <span>&#58;</span> "Turbulent Boundary Layer Dynamics of Melt Plumes Adjacent to an Iceberg" by <em>Jonathan Nash </em>
+    - title: 15<span>&#58;</span>45 to 16<span>&#58;</span>00 <span>&#58;</span> "Investigating the Impact of Velocity and Ice Thickness on Resolving Climatic Mass Balance Gradients" by <em>Albin Wells </em>
+    - title: 16<span>&#58;</span>00 to 16<span>&#58;</span>15 <span>&#58;</span> "Seasonality and surge cycle dynamics viewed through the enthalpy framework." by <em>Yoram Terleth </em>
+    - title: 16<span>&#58;</span>15 to 16<span>&#58;</span>30 <span>&#58;</span> "Subglacial processes" by <em>Paul Winberry </em>
+    - title: 16<span>&#58;</span>30 to 16<span>&#58;</span>45 <span>&#58;</span> "Ice shelf basal channel geometry" by <em>Genevieve Sauret </em>
+    - title: 16<span>&#58;</span>45 to 16<span>&#58;</span>00 <span>&#58;</span> "Bubble formation through snow compaction in temperate firn" by <em>Lucy Waghorn </em>
+    - title: 17<span>&#58;</span>00 to 17<span>&#58;</span>15 <span>&#58;</span> "Automated identification of surge events from ITSLIVE surface velocity time series" by <em>Greg Guillet </em>
+
   - title: Dinner
     description: Pizza dinner at Waterfront Activities Center (WAC).
-    time: 18:00 - 21:00
+    time: 18:00 - 23:00
+
 - title: Day 2
   date: Saturday 21 October
   contents:

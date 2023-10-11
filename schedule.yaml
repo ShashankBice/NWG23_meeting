@@ -46,7 +46,7 @@ tabs:
     description: null
     time: 14:15 - 14:45
 
-  - title: Oral Session 3<span>&#58;</span> Ice Dynamics
+  - title: Oral Session 4<span>&#58;</span> Ice Dynamics
     description: " "
     time: 14:45 - 17:15
     resources: 
@@ -68,7 +68,7 @@ tabs:
 - title: Day 2
   date: Saturday 21 October
   contents:
-  - title: Session 4
+  - title: Session 5
     description: Talks
     time: 8:15 - 10:00
     #leads:

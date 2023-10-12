@@ -68,7 +68,7 @@ tabs:
 - title: Day 2
   date: Saturday 21 October
   contents:
-  - title: Oral Session 4<span>&#58;</span> Antarctica and ice sheets
+  - title: Oral Session 5<span>&#58;</span> Antarctica and ice sheets
     description: " "
     time: 9:00 - 10:25
     resources: 
@@ -83,7 +83,7 @@ tabs:
     description: null
     time: 10:25 - 11:00
 
-  - title: Oral Session 5<span>&#58;</span> Alpine Glaciers
+  - title: Oral Session 6<span>&#58;</span> Alpine Glaciers
     description: " "
     resources:
     - title: 11<span>&#58;</span>00 to 11<span>&#58;</span>15 <span>&#58;</span> "High-resolution satellite observations of seasonal glacier mass balance and surface velocity for HMA glaciers" by <em>Shashank Bhushan</em>
@@ -96,7 +96,7 @@ tabs:
     description: null
     time: 12:00 - 13:15
       
-  - title: Oral Session 6<span>&#58;</span> Glacier Modeling
+  - title: Oral Session 7<span>&#58;</span> Glacier Modeling
     description: " "
     resources:
     - title: 13<span>&#58;</span>15 to 13<span>&#58;</span>30 <span>&#58;</span> "A Data Driven Estimate of Glacier Thickness" by <em>Simon Hans Edasi</em>
@@ -112,7 +112,7 @@ tabs:
     description: null
     time: 15:00 - 15:30
   
-  - title: Oral Session 7<span>&#58;</span> Glaciers in Alaska
+  - title: Oral Session 8<span>&#58;</span> Glaciers in Alaska
     description: " "
     resources:
     - title: 15<span>&#58;</span>30 to 15<span>&#58;</span>45 <span>&#58;</span> "DEM Differenciation of Sit<span>&#39;</span>Tlein (Malaspina) glacier" by <em>Victor Devaux-Chupin</em>

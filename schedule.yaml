@@ -4,7 +4,7 @@ tabs:
   date: Friday 20 October
   contents:
   - title: Oral Session 1<span>&#58;</span> Impacts and Outreach
-    description: " " 
+    description: "Moderators<span>&#58;</span> John Christian and Emily Wilbur" 
     time: 9:00 - 10:30
     resources:
     - title: 9<span>&#58;</span>00 to 9<span>&#58;</span>15 <span>&#58;</span> "Welcome to NWG" 
@@ -19,47 +19,49 @@ tabs:
     description: null
     time: 10:30 - 11:00
   - title: Oral Session 2<span>&#58;</span> Arctic Glaciers
-    description: " "
-    time: 11:00 - 12:00
+    description: "Moderators<span>&#58;</span> Dia Martinez Gracey and Gwenn Flowers"
+    time: 11:00 - 12:05
     resources:
     - title: 11<span>&#58;</span>00 to 11<span>&#58;</span>15 <span>&#58;</span> "Reconstructing a 1980's DEM of the Greenland ice sheet from coastal observations and modeled geometries" by <em>Annegret Pohle</em>
     - title: 11<span>&#58;</span>15 to 11<span>&#58;</span>30 <span>&#58;</span> "Fog forcing of surface energy balance from measurements on Arctic glaciers" by <em>Hester Jiskoot</em>
     - title: 11<span>&#58;</span>30 to 11<span>&#58;</span>45 <span>&#58;</span> "Dynamic response to winter-time supraglacial lake drainage cascade observed in western Greenland" by <em>Nathan Maier</em>
-    - title: 11<span>&#58;</span>45 to 12<span>&#58;</span>00 <span>&#58;</span> "Radar investigations of coastal ice exposures in the Canadian Arctic as analogs to ice-exposing scarps in the mid-latitudes of Mars" by <em>An Li</em>
+    - title: 11<span>&#58;</span>45 to 11<span>&#58;</span>55 <span>&#58;</span> "Radar investigations of coastal ice exposures in the Canadian Arctic as analogs to ice-exposing scarps in the mid-latitudes of Mars" by <em>An Li</em>
+    - title: 11<span>&#58;</span>55 to 12<span>&#58;</span>05 <span>&#58;</span> "Reconstruction of Glacier Mass Balance with Surface Energy Balance Modeling across Southwestern Canada" by <em>Christina Draeger</em>
   - title: LUNCH
     description: null
-    time: 12:00 - 13:15
+    time: 12:05 - 13:15
     
 
   
   - title: Oral Session 3<span>&#58;</span> Pacific Northwest Glaciers
-    description: " "
-    time: 13:15 - 14:30
+    description: "Moderators<span>&#58;</span> Meghan Sharp and Daniel Otto"
+    time: 13:15 - 15:00
     resources: 
     - title: 13<span>&#58;</span>15 to 13<span>&#58;</span>30 <span>&#58;</span> "Potential Controls on Glacier Mass Balance in Western North American Glaciers<span>&#58;</span> Analyzing Dense Time Series of Multi-Source Satellite Snow Cover Data" by <em>Rainey Aberle</em>
     - title: 13<span>&#58;</span>30 to 13<span>&#58;</span>45 <span>&#58;</span> "Re-inventory of Mount Rainier Glacier Volumes" by <em>Taylor Kenyon</em>
     - title: 13<span>&#58;</span>45 to 14<span>&#58;</span>00 <span>&#58;</span> "A cosmogenic 10Be moraine chronology of arid, alpine Late Pleistocene glaciation in the Pioneer Mountains of Montana, USA" by <em>Spruce Schoenemann</em>
     - title: 14<span>&#58;</span>00 to 14<span>&#58;</span>15 <span>&#58;</span> "Signal penetration of the Shuttle Radar Topography Mission in mid- and low-latitude glaciers" by <em>Romain Hugonnet</em>
-    - title: 14<span>&#58;</span>15 to 14<span>&#58;</span>30 <span>&#58;</span> "Presentation by Martin" by <em>Martin Truffer </em>
+    - title: 14<span>&#58;</span>15 to 14<span>&#58;</span>30 <span>&#58;</span> "TBD" by <em>Martin Truffer </em>
+    - title: 14<span>&#58;</span>30 to 14<span>&#58;</span>45 <span>&#58;</span> "Viscosity of compacting firnspan>&#58;</span> insights into grain size and temperature dependence" by <em>Kris Houdyshell</em>
+    - title: 14<span>&#58;</span>45 to 15<span>&#58;</span>00 <span>&#58;</span> "The effect of ice microstructure on borehole deformation" by <em>Emilie Sinkler </em>
   
   - title: BREAK
     description: null
-    time: 14:30 - 15:00
+    time: 15:30 - 15:30
 
   - title: Oral Session 4<span>&#58;</span> Ice Dynamics
-    description: " "
-    time: 15:00 - 17:30
+    description: "Moderators<span>&#58;</span> Rainey Aberle and Emily Wilbur"
+    time: 15:30 - 17:20
     resources: 
-    - title: 15<span>&#58;</span>00 to 15<span>&#58;</span>15 <span>&#58;</span> "Viscosity of compacting firn<span>&#58;</span> insights into grain size and temperature dependence" by <em>Kris Houdyshell </em>
-    - title: 15<span>&#58;</span>15 to 15<span>&#58;</span>30 <span>&#58;</span> "The effect of ice microstructure on borehole deformation" by <em>Emilie Sinkler </em>
-    - title: 15<span>&#58;</span>30 to 15<span>&#58;</span>45 <span>&#58;</span> "How does bed topography affect outlet glacier response to runoff?" by <em>Amy Jenson </em>
-    - title: 15<span>&#58;</span>45 to 16<span>&#58;</span>00 <span>&#58;</span> "Turbulent Boundary Layer Dynamics of Melt Plumes Adjacent to an Iceberg" by <em>Jonathan Nash </em>
-    - title: 16<span>&#58;</span>00 to 16<span>&#58;</span>15 <span>&#58;</span> "Investigating the Impact of Velocity and Ice Thickness on Resolving Climatic Mass Balance Gradients" by <em>Albin Wells </em>
-    - title: 16<span>&#58;</span>15 to 16<span>&#58;</span>30 <span>&#58;</span> "Seasonality and surge cycle dynamics viewed through the enthalpy framework." by <em>Yoram Terleth </em>
-    - title: 16<span>&#58;</span>30 to 16<span>&#58;</span>45 <span>&#58;</span> "Subglacial processes" by <em>Paul Winberry </em>
-    - title: 16<span>&#58;</span>45 to 17<span>&#58;</span>00 <span>&#58;</span> "Ice shelf basal channel geometry" by <em>Genevieve Sauret </em>
-    - title: 17<span>&#58;</span>00 to 17<span>&#58;</span>15 <span>&#58;</span> "Bubble formation through snow compaction in temperate firn" by <em>Lucy Waghorn </em>
-    - title: 17<span>&#58;</span>15 to 17<span>&#58;</span>30 <span>&#58;</span> "Automated identification of surge events from ITSLIVE surface velocity time series" by <em>Greg Guillet </em>
+    - title: 15<span>&#58;</span>30 to 15<span>&#58;</span>40 <span>&#58;</span> "A Data Driven Estimate of Glacier Thickness" by <em>Simon Hans Edasi</em>
+    - title: 15<span>&#58;</span>40 to 15<span>&#58;</span>55 <span>&#58;</span> "Turbulent Boundary Layer Dynamics of Melt Plumes Adjacent to an Iceberg" by <em>Jonathan Nash </em>
+    - title: 15<span>&#58;</span>55 to 16<span>&#58;</span>10 <span>&#58;</span> "A Novel Field Method for the Flux Divergence" by <em>Albin Wells </em>
+    - title: 16<span>&#58;</span>10 to 16<span>&#58;</span>25 <span>&#58;</span> "Seasonality and surge cycle dynamics viewed through the enthalpy framework." by <em>Yoram Terleth </em>
+    - title: 16<span>&#58;</span>25 to 16<span>&#58;</span>40 <span>&#58;</span> "Subglacial processes" by <em>Paul Winberry </em>
+    #- title: 16<span>&#58;</span>45 to 17<span>&#58;</span>00 <span>&#58;</span> "Ice shelf basal channel geometry" by <em>Genevieve Sauret </em>
+    - title: 16<span>&#58;</span>40 to 17<span>&#58;</span>55 <span>&#58;</span> "Bubble formation through snow compaction in temperate firn" by <em>Lucy Waghorn </em>
+    - title: 16<span>&#58;</span>55 to 17<span>&#58;</span>10 <span>&#58;</span> "Automated identification of surge events from ITSLIVE surface velocity time series" by <em>Greg Guillet </em>
+    - title: 17<span>&#58;</span>10 to 17<span>&#58;</span>20 <span>&#58;</span> "Poster presenters introduce themselves and the title of their poster"
 
   - title: Dinner
     description: Pizza dinner at Waterfront Activities Center (WAC).
@@ -68,38 +70,42 @@ tabs:
 - title: Day 2
   date: Saturday 21 October
   contents:
-  - title: Oral Session 4<span>&#58;</span> Antarctica and ice sheets
-    description: " "
+  - title: Oral Session 5<span>&#58;</span> Antarctica and ice sheets
+    description: "Moderators<span>&#58;</span> Liam Kirkpatrick and Emily Wilbur"
     time: 9:00 - 10:25
     resources: 
-    - title: 9<span>&#58;</span>00 to 9<span>&#58;</span>10 <span>&#58;</span> "About IGS" by <em>Hester Jiskoot and Gwenn Flowers </em>
-    - title: 9<span>&#58;</span>10 to 9<span>&#58;</span>25 <span>&#58;</span> "Modeling the diffusion of atmospheric gases in one million year old Antarctic ice" by <em>Marc Sailer</em>
-    - title: 9<span>&#58;</span>25 to 9<span>&#58;</span>40 <span>&#58;</span> "Climate forcing of the current phase of Antarctic ice sheet mass loss. (What actually got things started off, and when?)" by <em>Eric  Steig </em>
-    - title: 9<span>&#58;</span>40 to 9<span>&#58;</span>55 <span>&#58;</span> "Disentangling Basal from Internal Friction with Radiostratigraphy" by <em>Benjamin Hills</em>
-    - title: 9<span>&#58;</span>55 to 10<span>&#58;</span>10 <span>&#58;</span> "Something about Thwaites Ice Shelf & rifting" by <em>Meghan Sharp</em>
-    - title: 10<span>&#58;</span>10 to 10<span>&#58;</span>25 <span>&#58;</span>"Could be one of <span>&#58;</span> Bubbles melting ice (LeConte), Greenland subglacial 'lake' or Thwaites Ice Shelf" by <em>Erin Pettit</em>
+    #- title: 9<span>&#58;</span>00 to 9<span>&#58;</span>10 <span>&#58;</span> "About IGS" by <em>Hester Jiskoot and Gwenn Flowers </em>
+    #- title: 9<span>&#58;</span>00 to 9<span>&#58;</span>05 <span>&#58;</span> " " by <em></em>
+    - title: 9<span>&#58;</span>00 to 9<span>&#58;</span>05 <span>&#58;</span> "Welcome"
+    - title: 9<span>&#58;</span>05 to 9<span>&#58;</span>15 <span>&#58;</span> "Late 20th-century Increase in Antarctic Snow Accumulation Drives Modest Mitigation of Sea Level Rise" by <em>Advik Eswaran</em>
+    - title: 9<span>&#58;</span>15 to 9<span>&#58;</span>30 <span>&#58;</span> "Modeling the diffusion of atmospheric gases in one million year old Antarctic ice" by <em>Marc Sailer</em>
+    - title: 9<span>&#58;</span>30 to 9<span>&#58;</span>45 <span>&#58;</span> "Climate forcing of the current phase of Antarctic ice sheet mass loss. (What actually got things started off, and when?)" by <em>Eric  Steig </em>
+    - title: 9<span>&#58;</span>45 to 10<span>&#58;</span>00 <span>&#58;</span> "Disentangling Basal from Internal Friction with Radiostratigraphy" by <em>Benjamin Hills</em>
+    - title: 10<span>&#58;</span>00 to 10<span>&#58;</span>15 <span>&#58;</span> "Thwaites Ice Shelf & rifting" by <em>Meghan Sharp</em>
+    - title: 10<span>&#58;</span>15 to 10<span>&#58;</span>30 <span>&#58;</span>"TBD" by <em>Erin Pettit</em>
   
   - title: BREAK
     description: null
-    time: 10:25 - 11:00
+    time: 10:30 - 11:00
 
-  - title: Oral Session 5<span>&#58;</span> Alpine Glaciers
-    description: " "
+  - title: Oral Session 6<span>&#58;</span> Alpine Glaciers
+    description: "Moderators<span>&#58;</span> Emma Liu and Brandon Tober"
     resources:
-    - title: 11<span>&#58;</span>00 to 11<span>&#58;</span>15 <span>&#58;</span> "High-resolution satellite observations of seasonal glacier mass balance and surface velocity for HMA glaciers" by <em>Shashank Bhushan</em>
-    - title: 11<span>&#58;</span>15 to 11<span>&#58;</span>30 <span>&#58;</span> "Using SfM for inexpensive, but accurate repeat DEMs of glaciers for monitoring change" by <em>Chad Hults</em>
-    - title: 11<span>&#58;</span>30 to 11<span>&#58;</span>45 <span>&#58;</span> "Persistent overcut regions dominate the terminus morphology of a rapidly melting tidewater glacier" by <em>Nicole Abib</em>
-    - title: 11<span>&#58;</span>45 to 12<span>&#58;</span>00 <span>&#58;</span> "Impacts of tidewater glacier advance on iceberg habitat" by <em>Lynn Kaluzienski</em>
+    - title: 11<span>&#58;</span>00 to 11<span>&#58;</span>10 <span>&#58;</span> "High-resolution satellite observations of seasonal glacier mass balance and surface velocity for HMA glaciers" by <em>Shashank Bhushan</em>
+    - title: 11<span>&#58;</span>10 to 11<span>&#58;</span>20 <span>&#58;</span> "Using SfM for inexpensive, but accurate repeat DEMs of glaciers for monitoring change" by <em>Chad Hults</em>
+    - title: 11<span>&#58;</span>20 to 11<span>&#58;</span>35 <span>&#58;</span> "Persistent overcut regions dominate the terminus morphology of a rapidly melting tidewater glacier" by <em>Nicole Abib</em>
+    - title: 11<span>&#58;</span>35 to 11<span>&#58;</span>50 <span>&#58;</span> "Impacts of tidewater glacier advance on iceberg habitat" by <em>Lynn Kaluzienski</em>
+    - title: 11<span>&#58;</span>50 to 12<span>&#58;</span>00 <span>&#58;</span> "About IGS" 
     time: 11:00 - 12:00
     
   - title: LUNCH
     description: null
     time: 12:00 - 13:15
       
-  - title: Oral Session 6<span>&#58;</span> Glacier Modeling
-    description: " "
-    resources:
-    - title: 13<span>&#58;</span>15 to 13<span>&#58;</span>30 <span>&#58;</span> "A Data Driven Estimate of Glacier Thickness" by <em>Simon Hans Edasi</em>
+  - title: Oral Session 7<span>&#58;</span> Glacier Modeling
+    description: "Moderators<span>&#58;</span> Katie Robinson and Jon Maurer"
+    resources: 
+    - title: 13<span>&#58;</span>15 to 13<span>&#58;</span>30 <span>&#58;</span> "Ice shelf basal channel geometry" by <em>Genevieve Sauret</em>
     - title: 13<span>&#58;</span>30 to 13<span>&#58;</span>45 <span>&#58;</span> "Solving the ice flow equations in limit of 0 thickness<span>&#58;</span> not as stupid as it sounds " by <em>Daniel Shapero</em>
     - title: 13<span>&#58;</span>45 to 14<span>&#58;</span>00 <span>&#58;</span> "Model experiments on sedimentation and ice-stream stability" by <em>John Christian</em>
     - title: 14<span>&#58;</span>00 to 14<span>&#58;</span>15 <span>&#58;</span> "Using Ice Shelf Roughness as a Constraint for Modeling" by <em>Aidan Dealy</em>
@@ -112,14 +118,15 @@ tabs:
     description: null
     time: 15:00 - 15:30
   
-  - title: Oral Session 7<span>&#58;</span> Glaciers in Alaska
-    description: " "
+  - title: Oral Session 8<span>&#58;</span> Glaciers in Alaska
+    description: "Moderators<span>&#58;</span> Mira Berdahl and Emily Wilbur"
     resources:
-    - title: 15<span>&#58;</span>30 to 15<span>&#58;</span>45 <span>&#58;</span> "DEM Differenciation of Sit<span>&#39;</span>Tlein (Malaspina) glacier" by <em>Victor Devaux-Chupin</em>
-    - title: 15<span>&#58;</span>45 to 15<span>&#58;</span>00 <span>&#58;</span> "Leveraging SAR-derived Glacier Melt Extents to Improve Glacier Projections in High Mountain Asia (HMA) and Alaska" by <em>Mira  Khadka</em>
+    - title: 15<span>&#58;</span>30 to 15<span>&#58;</span>45 <span>&#58;</span> "How does geometry affect outlet glacier response to runoff?" by <emAmy Jenson</em>
+    - title: 15<span>&#58;</span>45 to 16<span>&#58;</span>00 <span>&#58;</span> "DEM Differenciation of Sit<span>&#39;</span>Tlein (Malaspina) glacier" by <em>Victor Devaux-Chupin</em>
     - title: 16<span>&#58;</span>00 to 16<span>&#58;</span>15 <span>&#58;</span> "Leveraging Operation IceBridge altimetry for improved projections of Alaskan glacier mass loss" by <em>Brandon Tober</em>
     - title: 16<span>&#58;</span>15 to 16<span>&#58;</span>30 <span>&#58;</span> "What Controls Intra-regional Differences in Surge Recurrence Interval? A Comparison of Observations of Sít<span>&#39;</span> Kusá and Variegated Glacier, Alaska" by <em>Jukes Liu</em>
     - title: 16<span>&#58;</span>30 to 16<span>&#58;</span>45 <span>&#58;</span> "Direct measurements of firn density evolution from 2016 to 2022 at Wolverine Glacier, Alaska" by <em>Max Stevens</em>
     - title: 16<span>&#58;</span>45 to 17<span>&#58;</span>00 <span>&#58;</span> "Impact of Albedo Feedbacks on the Surface Energy Balance of Gulkana Glacier, AK" by <em>Claire Wilson</em>
     - title: 17<span>&#58;</span>00 to 17<span>&#58;</span>15 <span>&#58;</span> "Some observations, modeling, and thoughts on basal motion beneath the (still) polythermal McCall Glacier, Alaska" by <em>Matt Nolan</em>
-    time: 15:30 - 17:15
+    - title: 17<span>&#58;</span>15 to 17<span>&#58;</span>25 <span>&#58;</span> " Closing and discussion on next NWG"
+    time: 15:30 - 17:25

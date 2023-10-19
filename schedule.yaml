@@ -41,7 +41,7 @@ tabs:
     - title: 13<span>&#58;</span>30 to 13<span>&#58;</span>45 <span>&#58;</span> "Re-inventory of Mount Rainier Glacier Volumes" by <em>Taylor Kenyon</em>
     - title: 13<span>&#58;</span>45 to 14<span>&#58;</span>00 <span>&#58;</span> "A cosmogenic 10Be moraine chronology of arid, alpine Late Pleistocene glaciation in the Pioneer Mountains of Montana, USA" by <em>Spruce Schoenemann</em>
     - title: 14<span>&#58;</span>00 to 14<span>&#58;</span>15 <span>&#58;</span> "Signal penetration of the Shuttle Radar Topography Mission in mid- and low-latitude glaciers" by <em>Romain Hugonnet</em>
-    - title: 14<span>&#58;</span>15 to 14<span>&#58;</span>30 <span>&#58;</span> "TBD" by <em>Martin Truffer </em>
+    - title: 14<span>&#58;</span>15 to 14<span>&#58;</span>30 <span>&#58;</span> "What does the future hold for Sít<span>&#39;</span> Tlein (Malaspina Glacier)?" by <em>Martin Truffer </em>
     - title: 14<span>&#58;</span>30 to 14<span>&#58;</span>45 <span>&#58;</span> "Viscosity of compacting firn<span>&#58;</span> insights into grain size and temperature dependence" by <em>Kris Houdyshell</em>
     - title: 14<span>&#58;</span>45 to 15<span>&#58;</span>00 <span>&#58;</span> "The effect of ice microstructure on borehole deformation" by <em>Emilie Sinkler </em>
   
@@ -91,9 +91,10 @@ tabs:
   - title: Oral Session 6<span>&#58;</span> Alpine Glaciers
     description: "Moderators<span>&#58;</span> Emma Liu and Brandon Tober"
     resources:
-    - title: 11<span>&#58;</span>00 to 11<span>&#58;</span>10 <span>&#58;</span> "High-resolution satellite observations of seasonal glacier mass balance and surface velocity for HMA glaciers" by <em>Shashank Bhushan</em>
-    - title: 11<span>&#58;</span>10 to 11<span>&#58;</span>20 <span>&#58;</span> "Using SfM for inexpensive, but accurate repeat DEMs of glaciers for monitoring change" by <em>Chad Hults</em>
-    - title: 11<span>&#58;</span>20 to 11<span>&#58;</span>35 <span>&#58;</span> "Persistent overcut regions dominate the terminus morphology of a rapidly melting tidewater glacier" by <em>Nicole Abib</em>
+    - title: 11<span>&#58;</span>00 to 11<span>&#58;</span>10 <span>&#58;</span> "Observations of Basal Morphology in Relation to Basal Melting on Thwaites and Dotson Ice Shelves, West Antarctica" by <em>Lucy Wanzer</em>
+    - title: 11<span>&#58;</span>10 to 11<span>&#58;</span>20 <span>&#58;</span> "High-resolution satellite observations of seasonal glacier mass balance and surface velocity for HMA glaciers" by <em>Shashank Bhushan</em>
+    - title: 11<span>&#58;</span>20 to 11<span>&#58;</span>35 <span>&#58;</span> "Using SfM for inexpensive, but accurate repeat DEMs of glaciers for monitoring change" by <em>Chad Hults</em>
+    #- title: 11<span>&#58;</span>20 to 11<span>&#58;</span>35 <span>&#58;</span> "Persistent overcut regions dominate the terminus morphology of a rapidly melting tidewater glacier" by <em>Nicole Abib</em>
     - title: 11<span>&#58;</span>35 to 11<span>&#58;</span>50 <span>&#58;</span> "Impacts of tidewater glacier advance on iceberg habitat" by <em>Lynn Kaluzienski</em>
     - title: 11<span>&#58;</span>50 to 12<span>&#58;</span>00 <span>&#58;</span> "About IGS" 
     time: 11:00 - 12:00
